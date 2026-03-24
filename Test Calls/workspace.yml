@@ -1,0 +1,12 @@
+opencollection: 1.0.0
+info:
+  name: "Test Calls"
+  type: workspace
+
+collections:
+  - name: "Test 1"
+    path: "collections/Test 1"
+
+specs:
+
+docs: ''
